@@ -1,0 +1,46 @@
+@import url(http://fonts.googleapis.com/css?family=Droid+Serif);
+
+ 
+#Header {
+  font-family:'Droid Serif', serif;
+  font-size: 10em;
+  background-color: Black; 
+  Color: White; 
+  padding:5px;
+  text-align:center; 
+  color: white; 
+  
+}
+ 
+#jumbotron{
+/*  background-color:#CCFFFF; */
+  color: white;
+  text-align: center;
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  Border: Double;
+  Font-Family: 'Droid Serif', serif;
+  
+}
+.col-md-4{
+  
+  Font-Family:'Droid Serif', serif;
+  font-size: 1em;
+  color: Black;
+  height: 900px;
+  width: Auto; 
+  border:double;
+}
+ 
+.col-md-4 h2 {
+  text-align: center;
+}
+  
+#jumbotron h1 {
+  font-size: 5em;
+}
+
+img {
+ align: center;
+}

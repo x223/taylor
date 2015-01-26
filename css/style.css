@@ -28,7 +28,8 @@
   Font-Family:'Droid Serif', serif;
   font-size: 1em;
   color: Black;
-  height: 2000px;
+  height: 600px;
+  overflow: auto;
   width: Auto; 
   border:double;
 }
